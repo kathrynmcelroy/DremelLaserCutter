@@ -9,4 +9,4 @@ I received my Dremel Digilab LC40 Laser Cutter in October of 2018. I've been pla
 * Illustrator Color Palette for vector lines
 
 ## License: 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
