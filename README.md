@@ -8,6 +8,11 @@ I received my Dremel Digilab LC40 Laser Cutter in October of 2018. I've been pla
 * Laser Settings Template
 * Illustrator Color Palette for vector lines
 
+## How to Use this Repository
+This repository holds a bunch of files for you to download and use. You can download the entire repository by clicking the big green button above titled "Clone or download" and select "Download ZIP". The zipped file will have all the text files, folders, and Illustrator files that are in this repository.
+  
+If there's a specific file you want, just click on the file name, and on its individual page there's a download button.
+
 ## License: 
 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
