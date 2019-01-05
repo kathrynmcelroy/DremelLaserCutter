@@ -12,7 +12,7 @@ I received my Dremel Digilab LC40 Laser Cutter in October of 2018. I've been pla
 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Links:
-* [Watch my unboxing and overview videos] (https://www.youtube.com/c/KathrynMcElroy23) 
+* [Watch my unboxing and overview videos](https://www.youtube.com/c/KathrynMcElroy23) 
 * [Follow me on Instagram](https://instagram.com/kathrynmakes)
 * [Check out my Etsy Shop](https://www.etsy.com/shop/kathrynmcelroy)
 * [Buy a Dremel Laser Cutter](https://shop.dremel.com/laser-cutter/)
