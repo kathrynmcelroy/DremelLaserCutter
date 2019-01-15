@@ -6,7 +6,7 @@ I received my Dremel Digilab LC40 Laser Cutter in October of 2018. I've been pla
 ## Contents:
 * Illustrator File Template: start with this file to set up your design with all the right layers and the Illustrator vector colors saved in the palette.
 * Test Engraving File: use this file to make a test swatch for each type of material that you want to engrave. Download the Dremel file if you have the Dremel laser cutter, otherwise use the Illustrator file to make your own for other laser cutters.
-* Illustrator Kelly Color Palette for vector lines: use these colors to have multiple vector laser settings in one file.
+* Dremel Colors (Illustrator Kelly Color Palette for vector lines): use these colors to have multiple vector laser settings in one file.
 
 ## How to Use this Repository
 This repository holds a bunch of files for you to download and use. You can download the entire repository by clicking the big green button on this page titled "Clone or download" and select "Download ZIP". The zipped file will have all the text files, folders, and Illustrator files that are in this repository.
