@@ -20,4 +20,4 @@ If there's a specific file you want, just click on the file name, and on its ind
 * [Watch my laser cutting videos](https://www.youtube.com/c/KathrynMcElroy23) 
 * [Follow me on Instagram](https://instagram.com/kathrynmakes)
 * [Check out my Etsy Shop](https://www.etsy.com/shop/kathrynmcelroy)
-* [Buy a Dremel Laser Cutter](https://shop.dremel.com/laser-cutter/)
+* [Buy a Dremel Laser Cutter](http://bit.ly/2H5vL80)
