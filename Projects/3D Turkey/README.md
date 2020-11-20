@@ -1,4 +1,4 @@
-I laser cut a 3D Turkey for my daughter to decorate for Thanksgiving! I show the whole process in a Youtube video (link to come), where I walk through the process of designing the file on Illustrator App for iPad and Illustrator on desktop, then save out the file and laser cut it on my Dremel Digilab LC40 laser cutter. 
+I laser cut a 3D Turkey for my daughter to decorate for Thanksgiving! I show the whole process in a [Youtube video](https://youtu.be/ihF8vejT2oA), where I walk through the process of designing the file on Illustrator App for iPad and Illustrator on desktop, then save out the file and laser cut it on my Dremel Digilab LC40 laser cutter. 
 
 There are two files in this folder:
 * Illustrator file: use this to edit and change the original file
